@@ -7,7 +7,7 @@ To develop a sensor application to use the sensor manager class to identify and 
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min.required Artic Fox)
+Android Studio(Min.required Giraffe)
 
 ## ALGORITHM:
 
